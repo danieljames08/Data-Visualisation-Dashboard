@@ -1,0 +1,46 @@
+.recharts-wrapper{
+    height: 60% !important;
+}
+
+.recharts-surface{
+    height: auto !important;
+}
+
+.cards{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none !important;
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+    
+}
+
+.scatter-checkboxes{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.pie-checkboxes{
+    
+}
+.recharts-legend-wrapper{
+    bottom:5px !important;
+    /* height: 40% !important; */
+}
+.recharts-legend-wrapper ul li{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.cards-body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table-height{
+    height: 300px !important;
+}
