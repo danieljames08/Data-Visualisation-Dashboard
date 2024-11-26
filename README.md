@@ -53,6 +53,9 @@ Ensure you have the following installed:
 
    ```bash
    npm install
+   cd server
+   npm install
+   cd ..
 
 4. **Start the Application**:
 
